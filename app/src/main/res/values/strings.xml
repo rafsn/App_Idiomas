@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_Idiomas</string>
+    <string name="btn" translatable="false">Trocar de texto</string>
+    <string name="text" translatable="false">Teste principal</string>
+</resources>
